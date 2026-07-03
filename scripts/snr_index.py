@@ -41,7 +41,7 @@ def snr_doc(signals: DocSignals, weights: dict = None) -> float:
     """
     SNR_doc = w_scp * (1 - SCP) + w_ns * NS + w_pv * PV
 
-    Note: these document-level weights (w_scp, w_ns, w_pv) are deliberately
+    Note: these document-level weights are deliberately
     named differently from the alpha/beta parameters of the Section 5
     dynamic model (dynamics.ModelParams), which govern corpus-level
     dynamics rather than per-document scoring. Reusing alpha/beta/gamma
