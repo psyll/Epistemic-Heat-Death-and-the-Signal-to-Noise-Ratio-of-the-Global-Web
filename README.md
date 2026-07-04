@@ -13,7 +13,7 @@ A theoretical framework for the post-AI information ecology: as AI-generated tex
 ## What's in this repo
 
 - **[`Epistemic Heat Death and the Signal-to-Noise Ratio of the Global Web.md`](<Epistemic Heat Death and the Signal-to-Noise Ratio of the Global Web.md>)** - the full paper
-- **[`mvp0-content-provenance-spec.md`](mvp0-content-provenance-spec.md)** - standalone, implementable MVP-0 technical spec (companion to §13.5)
+- **[`MVP-0 Content Provenance Spec`](MVP-0 Content Provenance Spec.md)** - standalone, implementable MVP-0 technical spec (companion to §13.5)
 - **`scripts/`** - reference Python implementations for the paper's formal models, one module per section, each runnable standalone
 - **`charts/`** - all eleven figures referenced in the paper, generated directly from the reference implementations (or, for the four purely conceptual diagrams, clearly labeled as illustrative schematics)
 
